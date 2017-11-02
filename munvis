@@ -17,5 +17,4 @@ http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$NTV_SPOR_HD/5.m3u8/Level
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$A2_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
 #EXTINF:-1,BEYAZ
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$BEYAZ_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,ULKE
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$ULKE_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
+
