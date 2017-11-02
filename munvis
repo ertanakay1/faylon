@@ -7,11 +7,3 @@ http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$SHOW_TV_HD/5.m3u8/Level(
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$STAR_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
 #EXTINF:-1,TV8
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$TV8_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,FOX
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$FOX_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TR-A SPOR HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$A_SPOR_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TR-NTV SPOR HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$NTV_SPOR_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,A2
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$A2_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
