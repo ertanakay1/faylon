@@ -15,5 +15,3 @@ http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$FOX_TV_HD/5.m3u8/Level(2
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$KANAL_D_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
 #EXTINF:-1,TR-A SPOR HD
 http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$A_SPOR_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TVNET HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$TVNET_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
