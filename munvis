@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1,ATV
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$ATV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,SHOW
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$SHOW_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,STAR
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$STAR_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TV8
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$TV8_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,ULKE_TV_HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$ULKE_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TR-FOX TV HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$FOX_TV_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TR: KANAL D HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$KANAL_D_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
-#EXTINF:-1,TR-A SPOR HD
-http://195.175.223.154:8080/MVP/TTG/live-shls/shls/LIVE$A_SPOR_HD/5.m3u8/Level(2621440)?start=LIVE&end=END
+#EXTINF:-1,YUZ NUMARALI ADAM (Kemal Sunal)
+https://vod02.cdn.web.tv/iz/rb/izrblgef74o_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:-1,KILIBIK (Kemal Sunal)
+https://vod02.cdn.web.tv/yy/pb/yypbdmuleie_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
+#EXTINF:-1,TOSUN PASA (Kemal Sunal)
+https://vod02.cdn.web.tv/ib/xs/ibxshxgbedu_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
+#EXTINF:-1,COPCULER KRALI (Kemal Sunal)
+https://vod02.cdn.web.tv/ah/f5/ahf5sfsoylq_,240,360,480,720,1080,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:-1,TOKATCI (Kemal Sunal)
+https://vod02.cdn.web.tv/gk/pq/gkpqhziop3c_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
+#EXTINF:-1,ATLA GEL SABAN (Kemal Sunal)
+https://ia600508.us.archive.org/3/items/AtlaGelaban1984720pSanssrsrzH2641280x720/Atla%20Gel%20%C5%9Eaban%20%281984%29%20%5B720p%20-%20Sans%C3%BCrs%C3%BCz%5D_H264-1280x720.mp4
+#EXTINF:-1,SOSYETE SABAN (Kemal Sunal)
+https://vod02.cdn.web.tv/du/ni/dunimgqxpdu_,120,240,360,480,720,.mp4.urlset/playlist-f5-v1-a1.m3u8
